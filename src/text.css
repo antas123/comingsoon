@@ -1,0 +1,71 @@
+.bgg h1{
+    font-family: 'Crimson Text', serif;
+    word-spacing: 10px;
+    font-size: 50px;
+}
+.bgg{
+    padding: 10px;
+    height: 450px;
+    width: 900px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 290px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-image: linear-gradient( #FF577F , #FF884B);
+    box-shadow: 10px 10px 8px 8px #D6E4E5;
+}
+
+.btns{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 270px;
+}
+
+.btnn1{
+    border-radius: 25px;
+    border-style: solid;
+    border-color: whitesmoke;
+    width: 150px;
+    height: 40px;
+    background-color: #FF7B54;
+    color: white;
+}
+
+.btnn2{
+    border-radius: 25px;
+    border-style:solid;
+    border-color: #FF7B54;
+    width: 180px;
+    height: 40px;
+    margin-left: 25px;
+    background-color: white;
+    color: #FF7B54;
+}
+.btnn1:hover{
+    border-style:solid;
+    border-color: #FF7B54;
+    background-color: white;
+    color: #FF7B54;
+}
+.btnn2:hover{
+    border-style: solid;
+    border-color: whitesmoke;
+    background-color: #FF7B54;
+    color: white;
+}
+
+.cso{
+    height: 150px;
+    margin-top: 30px;
+}
+.logo{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin: 0px 0px 10px 30px;
+}
